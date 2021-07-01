@@ -1,9 +1,6 @@
 
 public class Gyakusuu {
 	public static void main(String[] args) {
-		int a;
-		int b;
-		int c;
 		
 		double s = 0;
 		double i = 1.0;
